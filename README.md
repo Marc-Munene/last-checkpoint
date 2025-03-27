@@ -2,7 +2,7 @@
 
 ## Overview
 
-Hello! My name is Alois Maingi, and I have recently completed the Software Development Bootcamp at GOMYCODE. This README serves as a reflection of my journey through the Bootcamp and an outline of my readiness to embark on the next phase of my career in software development.
+Hello! My name is Marc Munene, and I have recently completed the Software Development Bootcamp at GOMYCODE. This README serves as a reflection of my journey through the Bootcamp and an outline of my readiness to embark on the next phase of my career in software development.
 
 ## Readiness for the Next Career Step
 
